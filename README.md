@@ -70,6 +70,8 @@ The CIFAR-10 dataset is used. This dataset contains 60,000 samples, with 50,000 
 
 
 ![Graphs](https://github.com/user-attachments/assets/ab3e58b9-1176-4335-911d-fdc5c8bb1a4e)
+#### VISUALIZATION
+![image](https://github.com/user-attachments/assets/e22fb110-da33-4cc5-b8af-3ab0df44316a)
 
 ### CUSTOM DATASET
 
@@ -79,7 +81,7 @@ The dataset is sourced from the iBUG 300-W dataset with XML-based annotations fo
 
 Output:
 ![Output](https://github.com/user-attachments/assets/5a7a30b2-4baf-4701-81e2-a2a59e63bcc7)
-#### visualisation
+
 
 ## MAIN PROJECT
 ### FACIAL LANDMARK DETECTION
