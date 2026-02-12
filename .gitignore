@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+! .streamlit/config.toml
+
+# Models
+models/best_model.pt
+
+# Others
+.DS_Store
+Thumbs.db
